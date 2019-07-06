@@ -1,10 +1,3 @@
----
-
-title: [The Historical TV Guide]
-description: [Using digitized text to study television history]
-
----
-
 ![perhaps add an image; need to find open access TV shot]
 
 This website is a public record of initial work completed as a part of the Historical TV Guide digital humanities project...
