@@ -12,10 +12,3 @@ Fill in basic info about the project from our grant proposal, acknowledge fundin
 #### [Preleminary Analysis](#insert link)
 
 #### [Future Directions](#insert link)
-
-Sub-Section 1 (Call for Collaborators)
-- ... 
-
-Sub-Section 2 (Contact Info)
-- anyone interested in collaborating should ... 
-
