@@ -1,3 +1,10 @@
+---
+
+title: [The Historical TV Guide]
+description: [Using digitized text to study television history]
+
+---
+
 ## Preliminary Analysis
 
 Sub-section 1 (Building the Dataset)
