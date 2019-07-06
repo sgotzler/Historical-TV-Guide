@@ -29,15 +29,19 @@ Sub-section 1 (Building the Dataset)
 - link to public dataset on KiltHub, and GitHub Repo for the project
 
 Sub-section 2 (Coding for WC content)
--
--
--
+- occupation
+- setting
+- ...
 
 Sub-section 3 (Ep. 01 - Action & Adventure)
--
--
+- parsing by genre
+- ...
 
 #### [Future Directions](#insert link)
+
 Sub-Section 1 (Call for Collaborators)
+- ... 
+
 Sub-Section 2 (Contact Info)
+- anyone interested in collaborating should ... 
 
