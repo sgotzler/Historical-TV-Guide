@@ -7,8 +7,8 @@ This website is a public record of initial work completed as a part of the Histo
 
 Fill in basic info about the project from our grant proposal, acknowledge funding sources
 
-#### [Project History](#insert link)
+#### [Project History](/Historical-TV-Guide/project)
 
-#### [Preleminary Analysis](#insert link)
+#### [Preleminary Analysis](/Historical-TV-Guide/analysis)
 
-#### [Future Directions](#insert link)
+#### [Future Directions](/Historical-TV-Guide/future)
