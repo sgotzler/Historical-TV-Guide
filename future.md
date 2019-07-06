@@ -1,3 +1,10 @@
+---
+
+title: [The Historical TV Guide]
+description: [Using digitized text to study television history]
+
+---
+
 ## Future Directions
 
 Sub-Section 1 (Call for Collaborators)
