@@ -1,6 +1,9 @@
+---
 
-# The Historical TV Guide
-## Using digitized text to study television history
+title: [The Historical TV Guide]
+description: [Using digitized text to study television history]
+
+---
 
 ![perhaps add an image; need to find open access TV shot]
 
