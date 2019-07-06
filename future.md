@@ -1,6 +1,6 @@
 ---
 
-title: [The Historical TV Guide]
+title: [The Historical TV Guide](/Historical-TV-Guide)
 description: [Using digitized text to study television history]
 
 ---
