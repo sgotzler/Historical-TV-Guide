@@ -1,5 +1,7 @@
 ![tv_retro](/assets/img/tv_retro.jpg)
 
+### About the Project
+
 This website is a public record of initial work completed as a part of the Historical TV Guide digital humanities project...
 
 Fill in basic info about the project from our grant proposal, acknowledge funding sources...
