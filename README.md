@@ -26,13 +26,18 @@ During the duration of the Mellon grant (2017-2018) Gotzler and Daniel Evans, a 
 In the multiverse of DH projects, this is a database project. Our ultimate goal is to build a publicly accessible database that allows for searching by keywords, data analysis and visualizations.
 
 Contributors
+
 Kathy M. Newman 
+
 Steven Gotzler 
+
 Daniel J. Evans 
+
 Scott Weingart
+
 Emma Slayton
 
-#### Future Directions
+### Future Directions
 
 Sub-Section 1 (Call for Collaborators)
 - ... 
