@@ -1,8 +1,6 @@
 ![tv_retro](/assets/img/tv_retro.jpg)
 
-### About the Project
-
-Welcome to the *Historical TV Guide*. 
+Welcome to the *Historical TV Guide*!
 
 This project is an attempt to aggregate data about television in the 1950s. Only 5-10% of what was broadcast has been preserved, and mostly on kinescope which is also subject to deterioration. Our goal then, was to use digital tools and available textual data to reconstruct a rich and accessible historical record that would do justice to the range and character of television programming broadcast during the decade. 
 
@@ -18,8 +16,7 @@ The GitHub repo also contains the jupyter notebooks from our preliminary analysi
 
 For more information on the process and results of this preliminary analysis, check out [Episode 01](/Historical-TV-Guide/analysis).
 
-
-### History
+### About the Project
 
 In August of 2011, Newman directed Gotzler in the creation of a tabular database of 1950s television shows based on entries in a TV encyclopedia. 
 
@@ -30,16 +27,11 @@ During the duration of the Mellon grant (2017-2018) Gotzler and Daniel Evans, a 
 In the multiverse of DH projects, this is a database project. Our ultimate goal is to build a publicly accessible database that allows for searching by keywords, data analysis and visualizations.
 
 #### Contributors
-
-Kathy M. Newman 
-
-Steven Gotzler 
-
-Daniel J. Evans 
-
-Scott Weingart
-
-Emma Slayton
+* Kathy M. Newman 
+* Steven Gotzler 
+* Daniel J. Evans 
+* Scott Weingart
+* Emma Slayton
 
 ### Future Directions
 
