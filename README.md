@@ -28,10 +28,10 @@ In the multiverse of DH projects, this is a database project. Our ultimate goal 
 
 #### Contributors
 
-Kathy M. Newman 
-Steven Gotzler 
-Daniel J. Evans 
-Scott Weingart
+Kathy M. Newman,
+Steven Gotzler,
+Daniel J. Evans, 
+Scott Weingart,
 Emma Slayton
 
 ### Future Directions
