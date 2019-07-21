@@ -14,7 +14,9 @@ A brief video explaining the project and its aims in more detail can be viewed [
 
 To access the dataset please visit our *deposit* on KiltHub, Carnegie Mellon University's institutional repository, and feel free to check out the project's repo on GitHub at the links below. 
 
-The GitHub repo also contains the jupyter notebooks from our preliminary analysis of working-class content in the Action & Adventure genre. For more information on the process and results of this preliminary analysis, please visit the [Episode 01](/Historical-TV-Guide/analysis) page.
+The GitHub repo also contains the jupyter notebooks from our preliminary analysis of working-class content in the Action & Adventure genre. 
+
+For more information on the process and results of this preliminary analysis, check out [Episode 01](/Historical-TV-Guide/analysis).
 
 
 ### History
