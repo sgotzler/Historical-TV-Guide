@@ -2,9 +2,11 @@
 
 ### About the Project
 
-This website is a public record of initial work completed as a part of the Historical TV Guide digital humanities project. This project gathered and combined metadata about television in the 1950s.
+Welcome to the *Historical TV Guide*. 
 
-Only 5-10% of what was broadcast has been preserved, and mostly on kinescope which is also subject to deterioration. Our goal then, was to use digital tools and available textual data to reconstruct a rich and accessible historical record that would do justice to the range and character of television programming broadcast during the decade. In our study we wanted to find a way to show that 1950s television was more diverse in terms of race, ethnicity, and social class than we have remembered it to be. Contrary to conventional wisdom, television in the 1950s was weird and heterogeneous, full of working class characters and themes, and ideologically diverse as well. Following television scholar Horace Newcomb, we hoped to argue that television during the 1950s functioned primarily as a cultural forum—a place where “meaningful difference” could be confronted, negotiated and explored—rather than as an ideological monolith or cultural leveler. 
+This project is an attempt to aggregate data about television in the 1950s. Only 5-10% of what was broadcast has been preserved, and mostly on kinescope which is also subject to deterioration. Our goal then, was to use digital tools and available textual data to reconstruct a rich and accessible historical record that would do justice to the range and character of television programming broadcast during the decade. 
+
+In the initial phases of our study, we wanted to find a way to show that 1950s television was more diverse in terms of race, ethnicity, and social class than we have remembered it to be. Contrary to conventional wisdom, television in the 1950s was weird and heterogeneous, full of working class characters and themes, and ideologically diverse as well. Following television scholar Horace Newcomb, we hoped to argue that television during the 1950s functioned primarily as a cultural forum—a place where “meaningful difference” could be confronted, negotiated and explored—rather than as an ideological monolith or cultural leveler. 
 
 #### Links to: KiltHub deposit, GitHub Repository, Mellon video
 
@@ -25,7 +27,7 @@ During the duration of the Mellon grant (2017-2018) Gotzler and Daniel Evans, a 
 
 In the multiverse of DH projects, this is a database project. Our ultimate goal is to build a publicly accessible database that allows for searching by keywords, data analysis and visualizations.
 
-Contributors
+#### Contributors
 
 Kathy M. Newman 
 
