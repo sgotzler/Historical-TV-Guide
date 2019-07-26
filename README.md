@@ -43,6 +43,10 @@ We are still continuing to expand the dataset by looking to incorporate further 
 
 If you are interested in collaborating on growing the dataset, or have access to unique archival materials about TV please contact us. 
 
-Prof. Kathy Newman - kn4@andrew.cmu.edu 
+Kathy M. Newman - kn4@andrew.cmu.edu 
+- Associate Professor of English, CMU
+
+Matthew Lincoln - mlincoln@andrew.cmu.edu
+- Digital Humanities Developer, CMU Libraries 
 
 
