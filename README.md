@@ -18,9 +18,9 @@ Kathy M. Newman, Associate Professor of English - *Carnegie Mellon University*
 
 Steven Gotzler, PhD Candidate in Liteary and Cultural Studies - *Carnegie Mellon University*
 
-Daniel J. Evans, JStor Labs - formerly, *Digital Developer for Dietrich College at Carnegie Mellon University*
+Daniel J. Evans, JStor Labs - formerly, *Carnegie Mellon University*
 
-Scott Weingart, Program Director in Digital Humanities - *Carnegie Mellon University Libraries*
+Scott Weingart, Program Director, Digital Humanities - *Carnegie Mellon University Libraries*
 
 Emma Slayton, Data Curation, Visualization, and GIS Specialist - *Carnegie Mellon University Libraries*
 
@@ -30,7 +30,7 @@ A brief video explaining the project and its aims in more detail can be viewed [
 
 To access the dataset please visit our *deposit* on KiltHub, Carnegie Mellon University's institutional repository. 
 
-Further Information on the dataset, and its sources can be found on the project's repo on GitHub here: https://github.com/dSHARP-CMU/megaText
+Further Information on the dataset, and its sources can be found on the project's repo on GitHub here: [https://github.com/dSHARP-CMU/megaText](https://github.com/dSHARP-CMU/megaText)
 
 * The GitHub repo also contains the jupyter notebooks from our preliminary analysis of working-class content in the Action & Adventure genre. For more information on the process and results of this preliminary analysis, check out [Episode 01](/Historical-TV-Guide/analysis).
 
