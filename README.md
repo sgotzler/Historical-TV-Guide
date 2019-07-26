@@ -32,7 +32,7 @@ To access the dataset please visit our *deposit* on KiltHub, Carnegie Mellon Uni
 
 Further Information on the dataset, and its sources can be found on the project's repo on GitHub here: [https://github.com/dSHARP-CMU/megaText](https://github.com/dSHARP-CMU/megaText)
 
-The GitHub repo also contains the jupyter notebooks from our preliminary analysis of working-class content in the Action & Adventure  genre. Check it out here: [Episode 01](/Historical-TV-Guide/episode01.md).
+The GitHub repo also contains the jupyter notebooks from our preliminary analysis of working-class content in the Action & Adventure  genre. Check it out here: [Episode 01](/Historical-TV-Guide/episode01).
 
 ### Future Directions
 
