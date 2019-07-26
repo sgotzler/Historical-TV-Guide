@@ -14,16 +14,20 @@ During the duration of the Mellon grant (2017-2018) Gotzler and Daniel Evans, a 
 
 #### Contributors
 
-* Kathy M. Newman, Associate Professor of English 
-  - *Carnegie Mellon University*
-* Steven Gotzler, PhD Candidate in Liteary and Cultural Studies 
-  - *Carnegie Mellon University*
-* Daniel J. Evans, JStor Labs 
-  - formerly, *Digital Developer for Dietrich College at Carnegie Mellon University*
-* Scott Weingart, Program Director in Digital Humanities 
-  - *Carnegie Mellon University Libraries*
-* Emma Slayton, Data Curation, Visualization, and GIS Specialist 
-  - *Carnegie Mellon University Libraries*
+Kathy M. Newman, Associate Professor of English 
+*Carnegie Mellon University*
+
+Steven Gotzler, PhD Candidate in Liteary and Cultural Studies 
+*Carnegie Mellon University*
+
+Daniel J. Evans, JStor Labs 
+formerly, *Digital Developer for Dietrich College at Carnegie Mellon University*
+
+Scott Weingart, Program Director in Digital Humanities 
+*Carnegie Mellon University Libraries*
+
+Emma Slayton, Data Curation, Visualization, and GIS Specialist 
+*Carnegie Mellon University Libraries*
 
 #### Resources
 
@@ -33,9 +37,9 @@ To access the dataset please visit our *deposit* on KiltHub, Carnegie Mellon Uni
 
 Further Information on the dataset, and its sources can be found on the project's repo on GitHub here: https://github.com/dSHARP-CMU/megaText
 
->The GitHub repo also contains the jupyter notebooks from our preliminary analysis of working-class content in the Action & Adventure genre. 
+> ###### The GitHub repo also contains the jupyter notebooks from our preliminary analysis of working-class content in the Action & Adventure genre. 
 >
->For more information on the process and results of this preliminary analysis, check out [Episode 01](/Historical-TV-Guide/analysis).
+>###### For more information on the process and results of this preliminary analysis, check out [Episode 01](/Historical-TV-Guide/analysis).
 
 ### Future Directions
 
@@ -43,8 +47,9 @@ We are still continuing to expand the dataset by looking to incorporate further 
 
 If you are interested in collaborating on growing the dataset, or have access to unique archival materials about TV please contact us. 
 
-Kathy M. Newman - kn4@andrew.cmu.edu 
+Kathy M. Newman - [kn4@andrew.cmu.edu](mailto:kn4@andrew.cmu.edu)
 
-Matthew Lincoln - mlincoln@andrew.cmu.edu
+Matthew Lincoln - [mlincoln@andrew.cmu.edu](mailto:mlincoln@andrew.cmu.edu)
+
 
 
