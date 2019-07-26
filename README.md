@@ -31,16 +31,18 @@ A brief video explaining the project and its aims in more detail can be viewed [
 
 To access the dataset please visit our *deposit* on KiltHub, Carnegie Mellon University's institutional repository. 
 
-Check out the project's repo on GitHub here: https://github.com/dSHARP-CMU/megaText
+Further Information on the dataset, and its sources can be found on the project's repo on GitHub here: https://github.com/dSHARP-CMU/megaText
 
 >The GitHub repo also contains the jupyter notebooks from our preliminary analysis of working-class content in the Action & Adventure genre. 
-
+>
 >For more information on the process and results of this preliminary analysis, check out [Episode 01](/Historical-TV-Guide/analysis).
 
 ### Future Directions
 
-Sub-Section 1 (Call for Collaborators)
-- ... 
+We are still continuing to expand the dataset by looking to incorporate further print sources relevant to 1950s television, including those containing time-slot and regional networking information. We also hope that the dataset might provide a basis for further computational study by shoclars in the field.
 
-Sub-Section 2 (Contact Info)
-- anyone interested in collaborating should ... 
+If you are interested in collaborating on growing the dataset, or have access to unique archival materials about TV please contact us. 
+
+Prof. Kathy Newman - kn4@andrew.cmu.edu 
+
+
