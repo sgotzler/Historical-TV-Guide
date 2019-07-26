@@ -15,9 +15,9 @@ During the duration of the Mellon grant (2017-2018) Gotzler and Daniel Evans, a 
 #### Contributors
 
 * Kathy M. Newman, Associate Professor of English 
-  - *English Department, Carnegie Mellon University*
+  - *Carnegie Mellon University*
 * Steven Gotzler, PhD Candidate in Liteary and Cultural Studies 
-  - *English Department, Carnegie Mellon University*
+  - *Carnegie Mellon University*
 * Daniel J. Evans, JStor Labs 
   - formerly, *Digital Developer for Dietrich College at Carnegie Mellon University*
 * Scott Weingart, Program Director in Digital Humanities 
@@ -34,7 +34,8 @@ To access the dataset please visit our *deposit* on KiltHub, Carnegie Mellon Uni
 Check out the project's repo on GitHub here: https://github.com/dSHARP-CMU/megaText
 
 >The GitHub repo also contains the jupyter notebooks from our preliminary analysis of working-class content in the Action & Adventure genre. 
-For more information on the process and results of this preliminary analysis, check out [Episode 01](/Historical-TV-Guide/analysis).
+
+>For more information on the process and results of this preliminary analysis, check out [Episode 01](/Historical-TV-Guide/analysis).
 
 ### Future Directions
 
