@@ -1,4 +1,4 @@
-## Preliminary Analysis - Episode 01: Action & Adventure
+## Episode 01: Action & Adventure
 
 Rather than attempt to analyze the entire dataset for working-class content all at once, we decided to begin our analysis by parsing the data by genre. Genre was attractive to us as a starting point because it ensured we captured a range of programming from different networks, and throughout the decade. 
 
@@ -28,7 +28,7 @@ The taxonomy for this work included:
 #### Setting
 [ADD inline image] Setting: Sci-Fi Fantasy, West (Western), or Historical Period, 
 
-##### Key Takeaways
+**Key Takeaways**
 (1) Unsurprisingly, the Adventure genre contains a high number of non-US, non-contemporary settings; these fall into “Historical Period” and “Particular Country (not US)”, but also include “Sci-Fi Fantasy” settings. 
 
 (2) The urban settings in NYC, or other “Particular Cities” -- come mostly from Crime or Detective shows, with “Action” genre tags..
@@ -40,13 +40,13 @@ The taxonomy for this work included:
 [ADD inline image] Working Class Content: NO or YES (1 or 2, binary code scale)
 *NOTE: these were hand coded and adjudicated by Prof. Newman and PhD Candidate Gotzler
 
-#### Preliminary Results
+### Preliminary Results
 
 In our preliminary results, when programs were grouped by [Occupation+Working-Class Content YES], and [Setting+Working-Class Content YES], some interesting patterns emerged.
 
-1.	The highest coincidence (in terms of overall share of programming) of working-class content and a single occupation occurred in programs featuring “Crime Solving (informal)” -- and the highest coincidence of working-class content and a single setting occurred in programs set in a “Historical Period” -- nearly half of each.
+(1) The highest coincidence (in terms of overall share of programming) of working-class content and a single occupation occurred in programs featuring “Crime Solving (informal)” -- and the highest coincidence of working-class content and a single setting occurred in programs set in a “Historical Period” -- nearly half of each.
 
-2.	A good example of a single record that exhibits all these trends is, “The Adventures of Robin Hood”, which you can see the details of here.
+(2) A good example of a single record that exhibits all these trends is, “The Adventures of Robin Hood”, which you can see the details of here.
 
 >**Closer Look - “Historical Period”**
 >
@@ -60,7 +60,6 @@ In our preliminary results, when programs were grouped by [Occupation+Working-Cl
 >**Occupation_Type**: “Crime Solving (informal)
 >**Evaluation_id**: Working_Class_YES
 
-INSERT FURTHER INFO FROM SLIDES and NEH GRANT
-
+INSERT FURTHER INFO FROM SLIDES and NEH GRANT IMAGES
 
 ### [Return](/Historical-TV-Guide)
