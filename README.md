@@ -32,11 +32,16 @@ To access the dataset please visit our *deposit* on KiltHub, Carnegie Mellon Uni
 
 Further Information on the dataset, and its sources can be found on the project's repo on GitHub here: [https://github.com/dSHARP-CMU/megaText](https://github.com/dSHARP-CMU/megaText)
 
-* The GitHub repo also contains the jupyter notebooks from our preliminary analysis of working-class content in the Action & Adventure genre. For more information on the process and results of this preliminary analysis, check out [Episode 01](/Historical-TV-Guide/analysis).
+   The GitHub repo also contains the jupyter notebooks from our preliminary analysis of working-class content in the Action & Adventure     
+   genre. For more information on the process and results of this preliminary analysis, check out [Episode 01](/Historical-TV-      
+   Guide/analysis).
 
 ### Future Directions
 
-We are still continuing to expand the dataset by looking to incorporate further print sources relevant to 1950s television, including those containing time-slot and regional networking information. We also hope that the dataset might provide a basis for further computational study by shoclars in the field.
+We hope our initial analysis shows how easy it is to construct searchable databases for texts that are potentially unwieldy, and provides a reproducible model for using similar methods to study film, radio, music, and other hard-to-access/hard-to-engage-with texts.
+ 
+Going forward, we hope to use the dataset we’ve compiled to build a public facing and searchable “Historical TV Guide” and conduct further collecting, cleaning, and centralizing of data from sites such as Wikipedia, as well as archival issues of the print sources like TV Guide.
+
 
 If you are interested in collaborating on growing the dataset, or have access to unique archival materials about TV please contact us. 
 
