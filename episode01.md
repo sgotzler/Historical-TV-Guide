@@ -2,7 +2,7 @@ We conducted our analysis using the data management and visualization packages (
 
 Having published the dataset and this notebook on GitHub, television scholars are able to reproduce our research, and launch studies of their own with the data. To access the dataset and run our Jupyter Notebooks visit the project's [GitHub Repo](#insert link)
 
-### Episode 01 - Action & Adventure 
+## Episode 01 - Action & Adventure 
 
 **Parsing by Genre**
 Rather than attempt to analyze the entire dataset for working-class content all at once, we decided to begin our analysis by parsing the data by genre. Genre was attractive to us as a starting point because it ensured we captured a range of programming from different networks, and throughout the decade. 
