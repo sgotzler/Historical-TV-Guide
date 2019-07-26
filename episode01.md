@@ -1,10 +1,3 @@
----
-
-title: [The Historical TV Guide]
-description: [Using digitized text to study television history]
-
----
-
 ## Preliminary Analysis - Episode 01: Action & Adventure
 
 Sub-section 1 (Building the Dataset)
