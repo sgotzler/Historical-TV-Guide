@@ -1,5 +1,3 @@
-Rather than attempt to analyze the entire dataset for working-class content all at once, we decided to begin our analysis by parsing the data by genre. Genre was attractive to us as a starting point because it ensured we captured a range of programming from different networks, and throughout the decade. 
-
 We conducted our analysis using the data management and visualization packages (pandas, and matplotlib) for Python3. We wrote and ran these python scripts in a Jupyter Notebook. Jupyter Notebooks is a computational environment software, that allows you to publish and share your research in ways that enable transparency and reproducibility. Our notebook records our preliminary analysis of working-class content in programs from the action adventure genre over the course of the 1950s. Commentary and explanation on our analytical methods and process is provided throughout.
 
 Having published the dataset and this notebook on GitHub, television scholars are able to reproduce our research, and launch studies of their own with the data. To access the dataset and run our Jupyter Notebooks visit the project's [GitHub Repo](#insert link)
@@ -7,9 +5,7 @@ Having published the dataset and this notebook on GitHub, television scholars ar
 ### Episode 01 - Action & Adventure 
 
 **Parsing by Genre**
-
-
-
+Rather than attempt to analyze the entire dataset for working-class content all at once, we decided to begin our analysis by parsing the data by genre. Genre was attractive to us as a starting point because it ensured we captured a range of programming from different networks, and throughout the decade. 
 
 ### Creating a Subset
 
