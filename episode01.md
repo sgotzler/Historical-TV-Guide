@@ -1,7 +1,7 @@
  
 This page shows one example of the kinds of research we hope to make available to more scholars by adding to and improving on The Historical TV Guide.
 
-Having published the dataset and this notebook on GitHub, television scholars are able to reproduce our research, and launch studies of their own with the data. To access the dataset and run our Jupyter Notebooks visit the project's dataset on [KiltHub]{#insert link) and our [GitHub Repo](#insert link).
+Having published the dataset and this notebook on GitHub, television scholars are able to reproduce our research, and launch studies of their own with the data. To access the dataset and run our Jupyter Notebooks visit the project's dataset on [KiltHub](#insert link) and our [GitHub Repo](https://github.com/dSHARP-CMU/megaText).
 
 ## Episode 01 - Working-Class Content in the Action & Adventure Genre
 
@@ -9,37 +9,37 @@ In March 2018, at the Society for Cinema and Media Conference, in Toronto Canada
 
 Rather than attempt to analyze the entire dataset for working-class content all at once, we decided to begin our analysis by parsing the data by genre. Genre was attractive to us as a starting point because it ensured we captured a range of programming from different networks, and throughout the decade. 
 
-*Figure 1* shows the distribution of genre categories over all of 1950s television, with the most number of television programs belonging to the Variety genre, and the least to the Science Fiction genre. *Figure 2* shows six distinct graphs of the frequency of six separate genres over the course of the decade. Notice that Variety genre drops off sharply by the end of the decade, while Crime Dramas end the decade on an upswing.
+Figure 1 shows the distribution of genre categories over all of 1950s television, with the most number of television programs belonging to the Variety genre, and the least to the Science Fiction genre. Figure 2 shows six distinct graphs of the frequency of six separate genres over the course of the decade. Notice that Variety genre drops off sharply by the end of the decade, while Crime Dramas end the decade on an upswing.
 
 ### Figure 1
 ![figure1](/assets/img/Figure1.png)
 
 ### Figure 2
-[insert inline image]
+![figure2](/assets/img/Figure2.png)
 
-For the first round of analysis, Newman and Gotzler chose to examine the Adventure genre for evidence of working class content. Newman and Gotzler chose the Adventure genre to start with, hypothesizing that they would find more working class characters, occupations, and settings in the Adventure dramas than in other genres such as Game Shows or Comedy.
-*add further justification about Genre (comedy vs. adventure, and break-down of prevalence)
+For the first round of analysis, Newman and Gotzler chose to examine the Adventure genre for evidence of working class content. 
+Adventure was chosen for a number of reasons. First, it was chosen over the more prevalent genres of "Anthology," "Game Show," and "Variety" as the program descriptions of these shows are vague and general--as a result of their changing format--thus, from print sources alone it would be very difficult to glean whether or not these programs contained working-class content. Second, there is relatively less consensus among TV scholars about the class politics of the "Action & Adventure" genre in comparison to other genres such as "Comedy" which scholars have long-studied, especially in relation to the birth of the sit-com and the varying depictions of social class in well-known programs like *I Love Lucy*, *The Honeymooners*, and *Leave it to Beaver*. Finally, "Action & Adventure" was selected because it was, after comedy, the most prevalent conventional narrativer genre in the dataset.
 
 ## Creating the Subset 
-Using a data-analysis package called “pandas” for the programming language Python3, Newman and Gotzler created a subset of the data for analysis of only those programs that had the "Action" or “Adventure” designation in the data set they had created. This created a new data frame to work with, and allowed them to capture everything Terrace had coded as “Adventure” but also brought in other programs, many of which he had categorized as “Science Fiction” or “Crime Drama,” but that contained either an “Action” or “Adventure” genre tag in their entry metadata on IMDB. Newman and Gotzler then exported this Adventure subset as a spreadsheet to a .csv file and hand-coded each program for working-class content after considering the relevant information such as program description, plot synopsis and summary, etc. 
+Using a data-analysis package called “pandas” for the programming language Python3, Newman and Gotzler created a subset of the data for analysis of only those programs that had the "Action" or “Adventure” designation in the data set they had created. This was accomplished by creating a new data frame that captured everything containing either an "Adventure" or "Action" tag in any of the various print sources that had been gathered into the dataset. This brought together a range of programs, many of which he had also been categorized as “Science Fiction” or “Crime Drama,” but that contained either an “Action” or “Adventure” genre tag in their entry metadata from on of the data sources. Figure 3 shows a snapshot of this new data frame for the Action & Adventure subset. Newman and Gotzler then exported this Adventure subset as a spreadsheet to a .csv file and hand-coded each program for working-class content after considering the relevant information such as program description, plot synopsis and summary, etc. 
 
-To code the television programs Newman and Gotzler developed a taxonomy for descriptive assessments of occupations and settings depicted in the programs. After assigning these descriptive categories, Newman and Gotzler then evaluated each show on a binary scale for whether it contained working-class content or not. 
+### Figure 3
+![figure 3](/assets/img/Figure3.png)
 
-[insert image of working-class content table]
+## Coding for Working-Class Content
 
-[insert image of settings and occupations tables] 
-
-#### Working-Class Content
-[ADD inline image] Working Class Content: NO or YES (1 or 2, binary code scale)
+To code the Action & Adventure programs Newman and Gotzler developed a taxonomy for descriptive assessments of occupations and settings depicted in the programs. After assigning these descriptive categories, Newman and Gotzler then evaluated each show on a binary scale for whether it contained working-class content or not. Figures 4, 5, and 6 display the taxonomies for each of these codings respectively.
 
 #### Occupation 
-[ADD INLINE IMAGE] Occupation: Transportation, Forestry, Construction, Scientist, or Detective
+![figure 4](/assets/img/Figure4.png)
 
 #### Setting
-[ADD inline image] Setting: Sci-Fi Fantasy, West (Western), or Historical Period, 
+![figure 5](/assets/img/Figure5.png)
 
+#### Working-Class Content
+![figure 6](/assets/img/Figure6.png)
 
-##Re-number figures in document subsequent to these inserted tables.
+## Preliminary Results
 
 To analyze the sub-set of coded Adventure programs Gotzler utilized data management and visualization packages (pandas, and matplotlib) in the programming language python3. Gotzler wrote these python scripts into a “Jupyter Notebook” which is a computational environment software that allows you to publish and share your research in ways that enable transparency and reproducibility. Our notebook records our preliminary analysis of working-class content in programs from the action adventure genre over the course of the 1950s. Commentary and explanation on our analytical methods and process is provided throughout.
  
@@ -49,7 +49,6 @@ In the course of this analysis Newman and Gotzler discovered a new occupation th
 
 *Figure 5* shows what happened when we isolated setting instead of occupation. For example, programs featuring the Western setting or programs that were oriented to children we classified as primarily middle class. Programs with an outdoor setting were predominantly working class. The setting of New York city produced both middle class and working class Adventure programs. 
 
-### Preliminary Results
 
 In our preliminary results, when programs were grouped by [Occupation+Working-Class Content YES], and [Setting+Working-Class Content YES], some interesting patterns emerged.
 
@@ -77,6 +76,5 @@ In our preliminary results, when programs were grouped by [Occupation+Working-Cl
 >**Occupation_Type**: “Crime Solving (informal)
 >**Evaluation_id**: Working_Class_YES
 
-INSERT FURTHER INFO FROM SLIDES and NEH GRANT IMAGES
 
 ### [Return](/Historical-TV-Guide)
