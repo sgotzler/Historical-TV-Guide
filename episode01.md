@@ -12,7 +12,7 @@ Rather than attempt to analyze the entire dataset for working-class content all 
 *Figure 1* shows the distribution of genre categories over all of 1950s television, with the most number of television programs belonging to the Variety genre, and the least to the Science Fiction genre. *Figure 2* shows six distinct graphs of the frequency of six separate genres over the course of the decade. Notice that Variety genre drops off sharply by the end of the decade, while Crime Dramas end the decade on an upswing.
 
 ### Figure 1
-[Insert inline image ADD genre graphics]
+![figure1](/assets/img/figure1.png)
 
 ### Figure 2
 [insert inline image]
