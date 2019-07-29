@@ -1,4 +1,5 @@
- 
+![adventure_title](/assets/img/adventure_title.jpg)
+
 This page shows one example of the kinds of research we hope to make available to more scholars by adding to and improving on The Historical TV Guide.
 
 Having published the dataset and this notebook on GitHub, television scholars are able to reproduce our research, and launch studies of their own with the data. To access the dataset and run our Jupyter Notebooks visit the project's dataset on [KiltHub](#insert link) and our [GitHub Repo](https://github.com/dSHARP-CMU/megaText).
