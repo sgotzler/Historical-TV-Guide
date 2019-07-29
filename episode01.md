@@ -83,7 +83,7 @@ A prime example of this somewhat ambiguous occupational category can be found in
 >
 > #### Program Description:  China Smith is a daring American soldier of fortune living in Singapore. China takes what cases he needs to survive and while he dislikes doing it, he always finds himself handing out freebies--helping innocent people who become involved with unscrupulous characters (sometimes as the result of a case he is investigating for the government). Cast: Dan Duryea (China Smith).
 >
-> #### Program Genre: Adventure, Action, Drama
+> #### <u>Program Genre:</u> Adventure, Action, Drama
 > #### Setting_Type: “Particular Country (not US)”
 > #### Occupation_Type: “Crime-Solving (informal)”
 > #### Evaluation_ID: “Working_Class_YES”
