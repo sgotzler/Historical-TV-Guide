@@ -30,13 +30,13 @@ Using a data-analysis package called “pandas” for the programming language P
 
 To code the Action & Adventure programs Newman and Gotzler developed a taxonomy for descriptive assessments of occupations and settings depicted in the programs. After assigning these descriptive categories, Newman and Gotzler then evaluated each show on a binary scale for whether it contained working-class content or not. Figures 4, 5, and 6 display the taxonomies for each of these codings respectively.
 
-#### Occupation 
+### Figure 4 
 ![figure 4](/assets/img/Figure4.png)
 
-#### Setting
+### Figure 5
 ![figure 5](/assets/img/Figure5.png)
 
-#### Working-Class Content
+### Figure 6
 ![figure 6](/assets/img/Figure6.png)
 
 ## Preliminary Results
