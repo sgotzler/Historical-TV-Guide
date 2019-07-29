@@ -81,12 +81,12 @@ A prime example of this somewhat ambiguous occupational category can be found in
 
 > #### *The Affairs of China Smith* (1952)
 >
-> #### Program Description:  China Smith is a daring American soldier of fortune living in Singapore. China takes what cases he needs to survive and while he dislikes doing it, he always finds himself handing out freebies--helping innocent people who become involved with unscrupulous characters (sometimes as the result of a case he is investigating for the government). Cast: Dan Duryea (China Smith).
+> #### <u>Program Description:</u> China Smith is a daring American soldier of fortune living in Singapore. China takes what cases he needs to survive and while he dislikes doing it, he always finds himself handing out freebies--helping innocent people who become involved with unscrupulous characters (sometimes as the result of a case he is investigating for the government). Cast: Dan Duryea (China Smith).
 >
 > #### <u>Program Genre:</u> Adventure, Action, Drama
-> #### Setting_Type: “Particular Country (not US)”
-> #### Occupation_Type: “Crime-Solving (informal)”
-> #### Evaluation_ID: “Working_Class_YES”
+> #### <u>Setting_Type:</u> “Particular Country (not US)”
+> #### <u>Occupation_Type:</u> “Crime-Solving (informal)”
+> #### <u>Evaluation_ID:</u> “Working_Class_YES”
 
 **Historical Period**
 
@@ -96,12 +96,12 @@ A good example of a single record in the dataset that exhibits both of these tre
 
 >#### *The Adventures of Robin Hood* (1955-1958)
 >
->#### Program Description:  "Robin Hood, Robin Hood, riding through the glen; Robin Hood, Robin Hood, with his band of Merry Men; feared by the bad, loved by the good, Robin Hood...." The series, set in 11th century England, relates the adventures of Robin Hood, the most celebrated of outlaws (who stole from the rich to give to the poor) and his band of Merry Men (free-born Englishmen loyal to the king who have established a base of operations in Sherwood Forest)...
+>#### <u>Program Description:</u> "Robin Hood, Robin Hood, riding through the glen; Robin Hood, Robin Hood, with his band of Merry Men; feared by the bad, loved by the good, Robin Hood...." The series, set in 11th century England, relates the adventures of Robin Hood, the most celebrated of outlaws (who stole from the rich to give to the poor) and his band of Merry Men (free-born Englishmen loyal to the king who have established a base of operations in Sherwood Forest)...
 >
->#### Program Genre: “Adventure”, “Action”, “Family”
->#### Setting_Type: “Historical Period”
->#### Occupation_Type: “Crime Solving (informal)
->#### Evaluation_id: Working_Class_YES
+>#### <u>Program Genre:</u> “Adventure”, “Action”, “Family”
+>#### <u>Setting_Type:</u> “Historical Period”
+>#### <u>Occupation_Type:</u> “Crime Solving (informal)
+>#### <u>Evaluation_id:</u> Working_Class_YES
 
 
 
