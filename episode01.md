@@ -46,6 +46,7 @@ To analyze the sub-set of coded Adventure programs Gotzler utilized data managem
 A notebook recording the preliminary analysis of working-class content in programs from the "Action & Adventure" genre over the course of the 1950s, can be found on the project's [GitHub Repo](https://github.com/dSHARP-CMU/megaText), commentary and explanation of the analytical methods and process is provided throughout.
  
 **Key Takeaways**
+
 (1) Unsurprisingly, the Adventure genre contains a high number of non-US, non-contemporary settings; these fall into “Historical Period” and “Particular Country (not US)”, but also include “Sci-Fi Fantasy” settings. 
 
 (2) The urban settings in NYC, or other “Particular Cities” -- come mostly from Crime or Detective shows, with “Action” genre tags..
@@ -59,10 +60,12 @@ Figures 7 and 8 represent the results of Newman and Gotzler’s coding of the Ad
 For example, in Figure 7, we catalogued nineteen unique occupation types in the programs within the Adventure genre. Some of the programs that contained these occupations we categorized as working class, while others we categorized as middle class, while still others had elements of both. For example, where we found foresters, spies, scientists and newspaper reporters, we classified all of those programs as having middle class or other in content. But where we found construction workers, criminals, transportation workers and police, we classified all of those programs as having working class content. Where we found “crime solving (informal)” we found programs that we coded as both working class, as well as middle class or other.
 
 ### Figure 7
+![figure 7](/assets/img/Figure7.png)
 
 Figure 8 shows what happened when we grouped by setting instead of occupation. For example, programs featuring the Western setting or programs that were oriented to children we classified as primarily middle class. Programs with an outdoor setting were predominantly working class. The setting of New York city produced both middle class and working class Adventure programs.
 
 ### Figure 8
+![figure 8](/assets/img/Figure8.png)
 
 Some interesting patterns also emerged from this analysis:
 
@@ -71,20 +74,26 @@ Some interesting patterns also emerged from this analysis:
 (2) The highest coincidence of working-class content and a single setting occurred in programs set in a “Historical Period” -- nearly half of each.
 
 **Crime Solving (informal)**
+
 A high proportion of adventure programs contained characters whose job involved battling injustice without any other mention of more formal employment, and where the character was not a policeman, a superhero, a detective or a private investigator. These crime solvers were precarious in their relationship to capital as well. In many of these programs it is not clear who hired them, or from whence their livelihoods came. In coding the adventure subset we developed the category of "Crime Solving (informal)" to capture these occupations.
 
 A prime example of this somewhat ambiguous occupational category can be found in a short-lived program from 1952 *The Affairs of China Smith*, which you can see the details of here:
 
 > #### *The Affairs of China Smith* (1952)
+>
 > #### **Program Description**:  China Smith is a daring American soldier of fortune living in Singapore. China takes what cases he needs to survive and while he dislikes doing it, he always finds himself handing out freebies--helping innocent people who become involved with unscrupulous characters (sometimes as the result of a case he is investigating for the government). Cast: Dan Duryea {China Smith).
 >
+>
 > #### **Program Genre**: Adventure, Action, Drama
+>
 > #### **Setting_Type**: “Particular Country (not US)”
+>
 > #### **Occupation_Type**: “Crime-Solving (informal)”
 >
 > #### **Evaluation_ID**: “Working_Class_YES”
 
 **Historical Period**
+
 It is also curious that so many of the programs which appear to contain working-class content would be set in historical periods. These occasionally reached as far back as the medieval period pre-capitalist eras romances, but also included programs set during the Old West, or other parts of the nineteenth century. This is somewhat surprising given the assumption that conventional historical sense elides the presence of class conflict or working-class culture. However it is also quite fitting, as in some sense it reveals the inability to imagine a narrative of history that isn't rooted in class struggle. 
 
 A good example of a single record in the dataset that exhibits both of these trends is, “The Adventures of Robin Hood”, which you can see the details of here:
