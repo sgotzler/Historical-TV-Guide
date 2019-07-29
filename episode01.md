@@ -41,40 +41,64 @@ To code the Action & Adventure programs Newman and Gotzler developed a taxonomy 
 
 ## Preliminary Results
 
-To analyze the sub-set of coded Adventure programs Gotzler utilized data management and visualization packages (pandas, and matplotlib) in the programming language python3. Gotzler wrote these python scripts into a “Jupyter Notebook” which is a computational environment software that allows you to publish and share your research in ways that enable transparency and reproducibility. Our notebook records our preliminary analysis of working-class content in programs from the action adventure genre over the course of the 1950s. Commentary and explanation on our analytical methods and process is provided throughout.
+To analyze the sub-set of coded Adventure programs Gotzler utilized data management and visualization packages (pandas, and matplotlib) in the programming language python3. Gotzler wrote these python scripts into a “Jupyter Notebook” which is a computational environment software that allows you to publish and share your research in ways that enable transparency and reproducibility.
+
+A notebook recording the preliminary analysis of working-class content in programs from the "Action & Adventure" genre over the course of the 1950s, can be found on the project's [GitHub Repo](https://github.com/dSHARP-CMU/megaText), commentary and explanation of the analytical methods and process is provided throughout.
  
-In the course of this analysis Newman and Gotzler discovered a new occupation that was very common in the Adventure genre, an occupation they have labeled “Crime Solving (informal)”.. A high proportion of adventure programs contained characters whose job involved battling injustice without any other mention of more formal employment, and where the character was not a policeman, a superhero, a detective or a private investigator. These crime solvers were precarious in their relationship to capital—in many of these programs it is not clear who hired these informal crime solvers, or from whence their livelihoods came.
-
-*Figures 4 and 5* represent the results of Newman and Gotzler’s coding of the Adventure genre according to its working class content. The color orange correlates with programs that we deemed as having primarily working class content and the color blue correlates with programs that we deemed as having primarily middle class content. For example, in *Figure 4*, we catalogued nineteen unique occupations types in the programs within the Adventure genre. Some of the programs that contained this occupation we categorized as working class, while others we categorized as middle class, while still others had elements of both. For example, where we found foresters, spies, scientists and newspaper reporters, we classified all of those programs as having middle class content. But where we found construction workers, criminals, transportation workers and police, we classified all of those programs as having working class content. Where we found “crime solving (informal)” we found programs that we coded as being primarily working class, as well as programs we coded as primarily middle class.
-
-*Figure 5* shows what happened when we isolated setting instead of occupation. For example, programs featuring the Western setting or programs that were oriented to children we classified as primarily middle class. Programs with an outdoor setting were predominantly working class. The setting of New York city produced both middle class and working class Adventure programs. 
-
-
-In our preliminary results, when programs were grouped by [Occupation+Working-Class Content YES], and [Setting+Working-Class Content YES], some interesting patterns emerged.
-
-(1) The highest coincidence (in terms of overall share of programming) of working-class content and a single occupation occurred in programs featuring “Crime Solving (informal)” -- and the highest coincidence of working-class content and a single setting occurred in programs set in a “Historical Period” -- nearly half of each.
-
-(2) A good example of a single record that exhibits all these trends is, “The Adventures of Robin Hood”, which you can see the details of here.
-
 **Key Takeaways**
 (1) Unsurprisingly, the Adventure genre contains a high number of non-US, non-contemporary settings; these fall into “Historical Period” and “Particular Country (not US)”, but also include “Sci-Fi Fantasy” settings. 
 
 (2) The urban settings in NYC, or other “Particular Cities” -- come mostly from Crime or Detective shows, with “Action” genre tags..
 
 (3) Surprisingly, only one program in the subset we analyzed corresponded to a Western setting. --We are still in the process of double checking, to see if we’re missing something with the capture, as it seems unlikely that more Western shows in IMDB are not genre tagged as “Adventure” or “Action”
+  
+After generating these initial coded counts, programs were grouped by **Occupation+Working-Class Content=YES**, and **Setting+Working-Class Content YES**. 
 
+Figures 7 and 8 represent the results of Newman and Gotzler’s coding of the Adventure genre according to its working class content. The color orange correlates with programs that we deemed as having primarily working class content and the color blue correlates with programs that we deemed as having primarily middle class content. 
 
->**Closer Look - “Historical Period”**
+For example, in Figure 7, we catalogued nineteen unique occupation types in the programs within the Adventure genre. Some of the programs that contained these occupations we categorized as working class, while others we categorized as middle class, while still others had elements of both. For example, where we found foresters, spies, scientists and newspaper reporters, we classified all of those programs as having middle class or other in content. But where we found construction workers, criminals, transportation workers and police, we classified all of those programs as having working class content. Where we found “crime solving (informal)” we found programs that we coded as both working class, as well as middle class or other.
+
+### Figure 7
+
+Figure 8 shows what happened when we grouped by setting instead of occupation. For example, programs featuring the Western setting or programs that were oriented to children we classified as primarily middle class. Programs with an outdoor setting were predominantly working class. The setting of New York city produced both middle class and working class Adventure programs.
+
+### Figure 8
+
+Some interesting patterns also emerged from this analysis:
+
+(1) The highest coincidence (in terms of overall share of programming) of working-class content and a single occupation occurred in programs featuring “Crime Solving (informal)” 
+
+(2) The highest coincidence of working-class content and a single setting occurred in programs set in a “Historical Period” -- nearly half of each.
+
+**Crime Solving (informal)**
+A high proportion of adventure programs contained characters whose job involved battling injustice without any other mention of more formal employment, and where the character was not a policeman, a superhero, a detective or a private investigator. These crime solvers were precarious in their relationship to capital as well. In many of these programs it is not clear who hired them, or from whence their livelihoods came. In coding the adventure subset we developed the category of "Crime Solving (informal)" to capture these occupations.
+
+A prime example of this somewhat ambiguous occupational category can be found in a short-lived program from 1952 *The Affairs of China Smith*, which you can see the details of here:
+
+> #### *The Affairs of China Smith* (1952)
+> #### **Program Description**:  China Smith is a daring American soldier of fortune living in Singapore. China takes what cases he needs to survive and while he dislikes doing it, he always finds himself handing out freebies--helping innocent people who become involved with unscrupulous characters (sometimes as the result of a case he is investigating for the government). Cast: Dan Duryea {China Smith).
 >
->*The Adventures of Robin Hood (1955-1958)*
+> #### **Program Genre**: Adventure, Action, Drama
+> #### **Setting_Type**: “Particular Country (not US)”
+> #### **Occupation_Type**: “Crime-Solving (informal)”
 >
->**Program Description**:  "Robin Hood, Robin Hood, riding through the glen; Robin Hood, Robin Hood, with his band of Merry Men; feared by the bad, loved by the good, Robin Hood...." The series, set in 11th century England, relates the adventures of Robin Hood, the most celebrated of outlaws (who stole from the rich to give to the poor) and his band of Merry Men (free-born Englishmen loyal to the king who have established a base of operations in Sherwood Forest)...
+> #### **Evaluation_ID**: “Working_Class_YES”
+
+**Historical Period**
+It is also curious that so many of the programs which appear to contain working-class content would be set in historical periods. These occasionally reached as far back as the medieval period pre-capitalist eras romances, but also included programs set during the Old West, or other parts of the nineteenth century. This is somewhat surprising given the assumption that conventional historical sense elides the presence of class conflict or working-class culture. However it is also quite fitting, as in some sense it reveals the inability to imagine a narrative of history that isn't rooted in class struggle. 
+
+A good example of a single record in the dataset that exhibits both of these trends is, “The Adventures of Robin Hood”, which you can see the details of here:
+
+>#### *The Adventures of Robin Hood* (1955-1958)
 >
->**Program Genre**: “Adventure”, “Action”, “Family”
+>#### **Program Description**:  "Robin Hood, Robin Hood, riding through the glen; Robin Hood, Robin Hood, with his band of Merry Men; feared by the bad, loved by the good, Robin Hood...." The series, set in 11th century England, relates the adventures of Robin Hood, the most celebrated of outlaws (who stole from the rich to give to the poor) and his band of Merry Men (free-born Englishmen loyal to the king who have established a base of operations in Sherwood Forest)...
 >
->**Setting_Type**: “Historical Period”
->**Occupation_Type**: “Crime Solving (informal)
->**Evaluation_id**: Working_Class_YES
+>#### **Program Genre**: “Adventure”, “Action”, “Family”
+>
+>#### **Setting_Type**: “Historical Period”
+>#### **Occupation_Type**: “Crime Solving (informal)
+>#### **Evaluation_id**: Working_Class_YES
+
 
 
 ### [Return](/Historical-TV-Guide)
