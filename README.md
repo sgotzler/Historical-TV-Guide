@@ -45,7 +45,5 @@ If you are interested in collaborating on growing the dataset, or have access to
 
 Kathy M. Newman - [kn4@andrew.cmu.edu](mailto:kn4@andrew.cmu.edu)
 
-Matthew Lincoln - [mlincoln@andrew.cmu.edu](mailto:mlincoln@andrew.cmu.edu)
-
 
 
