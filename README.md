@@ -26,7 +26,7 @@ Emma Slayton, Data Curation, Visualization, and GIS Specialist - *Carnegie Mello
 
 #### Resources
 
-A brief video explaining the project and its aims in more detail can be viewed [here](#insert link).
+A brief video explaining the project and its aims in more detail can be viewed [here](https://cmu-lib.github.io/dhlg/project-videos/newmangotzler/).
 
 To access the dataset please visit our *deposit* on KiltHub, Carnegie Mellon University's institutional repository. 
 
