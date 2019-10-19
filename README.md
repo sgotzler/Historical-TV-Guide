@@ -26,9 +26,7 @@ Emma Slayton, Data Curation, Visualization, and GIS Specialist - *Carnegie Mello
 
 #### Resources
 
-A brief video explaining the project and its aims in more detail can be viewed [here](https://cmu-lib.github.io/dhlg/project-videos/newmangotzler/).
-
-To access the dataset please visit our *deposit* on KiltHub, Carnegie Mellon University's institutional repository. 
+A brief video explaining the project and its aims in more detail was produced for the [Digital Humanities Literacy Guidebook](https://cmu-lib.github.io/dhlg/). You can view the video [here](https://cmu-lib.github.io/dhlg/project-videos/newmangotzler/).
 
 Further Information on the dataset, and its sources can be found on the project's repo on GitHub here: [https://github.com/dSHARP-CMU/megaText](https://github.com/dSHARP-CMU/megaText)
 
